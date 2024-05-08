@@ -1,0 +1,122 @@
+body {
+  text-align: center;
+  color: #fff !important;
+  }
+
+  .head {
+    font-size: 3rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+.heading {
+  background-color: #153448;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
+  padding: 5% 0;
+}
+.instruction {
+  background-color: #3C5B6F;
+  padding: 5% 15%;
+  line-height: 2;
+}
+.good-luck {
+  color: red;
+}
+
+.play-game {
+  background-color: #948979;
+  padding: 7% 0;
+}
+
+
+.footer {
+  background-color: #DFD0B8;
+  padding: 2% 0;
+}
+.social-media {
+  margin: 10px 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.social-media:hover {
+  color: gray;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color: #FEF2BF;
+}
+
+.container {
+  width: 50%;
+  display: block;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+.play-div {
+  margin: 40px 0;
+}
+
+.play-btn {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  background-color: #FEF2BF;
+  color: #948979;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.play-btn:hover {background-color: #3C5B6F}
+
+.play-btn:active {
+
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
